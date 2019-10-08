@@ -4,4 +4,5 @@ metadata:
   annotations:
     fluxcd.io/ignore: "false"
     linkerd.io/inject: enabled
+    foo: bar
   name: ingress-nginx
